@@ -20,4 +20,4 @@ Bienvenue pour voir mes trois blague
 
 [blague lisa 2](src/blague_lisa_2)
 
-[blague lisa 2](src/blague_lisa_4)
+[blague lisa 4](src/blague_lisa_4)
